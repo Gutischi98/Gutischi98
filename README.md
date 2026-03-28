@@ -1,15 +1,46 @@
-# 💫 About Me:
-🔭 Hola, soy un profesional apasionado por la tecnología con una trayectoria única. Como Soporte Técnico Senior, he perfeccionado mi capacidad para resolver problemas complejos, gestionar infraestructuras críticas y asegurar la continuidad operativa..<br>🌱Ahora, estoy canalizando esa experiencia hacia el Desarrollo de Software. Mi background en soporte me da una ventaja competitiva: escribo código pensando en la mantenibilidad, la robustez y la experiencia del usuario final. No solo construyo aplicaciones; entiendo cómo viven y respiran en el mundo real. .<br> ✌Actualemente me desempeño como soporte técnico, mientras sigo estudiando y practicando, día a día nuevos lenguajes y tecnologías para lograr mis objetivos
+# Hi there, I'm Gustavo Solar Jeraldo 👋
+### Computer Science Technician (A.A.S.) | Full Stack Developer | IT Infrastructure Expert
 
+I am a results-driven professional with a unique hybrid trajectory. With over 4 years of experience as a **Senior Technical Support Analyst**, I've mastered the art of troubleshooting complex systems and managing critical infrastructure. 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-solar-jeraldo) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+Now, I bridge the gap between **Infrastructure and Software Development**, building robust, scalable, and secure applications with a "production-first" mindset.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gutischi98&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ Why me?
+* **Reliability:** Coming from IT Support, I write code thinking about maintainability, observability, and the end-user experience.
+* **Full-Cycle Mindset:** I don't just build apps; I know how they breathe in Linux servers, how to secure them (Ethical Hacking background), and how to deploy them using NGINX/PM2.
+* **Problem Solver:** My background in judicial institutions has trained me to work under pressure and handle sensitive data with high ethical standards.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend & Backend (MERN Stack & more)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗄️ Databases & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+### 🛡️ Enterprise Inventory Solution (Full Stack)
+*A robust MERN stack application designed for the Chilean Judiciary to manage IT assets and support tickets.*
+* **Key Tech:** React, Node.js, MongoDB, NGINX, PM2.
+* **Impact:** Reduced manual tracking errors by automating asset lifecycle management.
+* [🔗 View Repository (If public) or Request Demo]
+
+### 🎮 Game Development (Godot Engine)
+*Exploring logic and physics through game design during regional Game Jams.*
+* **Theme:** "Beyond your control".
+* [🔗 Play on Itch.io / View Code]
+
+---
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-solar-jeraldo) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.devti98@gmail.com)
+
+---
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gutischi98&show_icons=true&theme=tokyonight)
